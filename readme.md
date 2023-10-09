@@ -27,6 +27,8 @@ Note: using `tmux-continuum` autosaves the sessions every 5 minutes or so, and w
 Sept 2023:
 
 ```
+apt list | grep tmux
+
 python3-libtmux/jammy 0.10.1-1 all
 python3-tmuxp/jammy 1.9.2-1 all
 tmux-plugin-manager/jammy 3.0.0-1.1 all
