@@ -21,3 +21,19 @@ I think just the `tmux.conf` file in `.config/tmux` is enough to set up tmux.
 
 Note: using `tmux-continuum` autosaves the sessions every 5 minutes or so, and will auto reload the last saved state on resuming tmux. This is particularly useful for my WSL2 ubuntu that I shutdown tomake backups of.
 
+
+# Versions
+
+Sept 2023:
+
+```
+python3-libtmux/jammy 0.10.1-1 all
+python3-tmuxp/jammy 1.9.2-1 all
+tmux-plugin-manager/jammy 3.0.0-1.1 all
+tmux-themepack-jimeh/jammy 0+git20190430-1b1b809-1 all
+tmux/jammy-updates,jammy-security,now 3.2a-4ubuntu0.2 amd64 [installed,automatic]
+tmuxinator/jammy 3.0.1-1 all
+tmuxp/jammy 1.9.2-1 all
+
+```
+
