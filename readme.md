@@ -6,11 +6,16 @@ Here is the link to the installation instructions
 
 https://github.com/tmux/tmux/wiki/Installing#appimage-package
 
-
 I think I just went for the `sudo apt update && sudo apt get tmux` option. I don't 100% remember.
 
+# General Setup
 
-# Plugins / Config
+Did initial setup following this video
+
+https://www.youtube.com/watch?v=DzNmUNvnB04&t
+
+
+# Additional Plugins / Config notes
 
 I think just the `tmux.conf` file in `.config/tmux` is enough to set up tmux. 
 
